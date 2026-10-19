@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/internetcontrol">
+        <file>icons/internet-block.png</file>
+        <file>icons/internet-whitelist.png</file>
+        <file>icons/internet-blacklist.png</file>
+        <file>icons/internet-configure.png</file>
+    </qresource>
+</RCC>

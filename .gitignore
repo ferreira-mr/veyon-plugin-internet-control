@@ -1,0 +1,29 @@
+# Build directories
+build/
+bin/
+
+# Object and compiler output files
+*.obj
+*.o
+*.a
+*.pdb
+*.ilk
+*.exp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+.ninja_*
+
+# Temporary and log files
+*.log
+*.tmp
+*.old_*
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.user
+*.suo
