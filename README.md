@@ -12,13 +12,15 @@ Ele oferece ao docente o controle total do acesso à web dos alunos diretamente 
 
 ## 🎯 Por que este plugin foi criado?
 
-Em ambientes educacionais, os métodos tradicionais de bloqueio de internet frequentemente causam frustração aos professores:
-- Alunos utilizavam o **Microsoft Edge** para burlar bloqueios que só afetavam o Chrome.
-- Quando o professor ativava o bloqueio, as regras só entravam em vigor **se o aluno fechasse e abrisse o navegador manualmente**.
-- Alunos abriam janelas anônimas (*InPrivate / Incognito*) para escapar de restrições.
-- Bloqueios de rede convencionais derrubavam a conexão do próprio Veyon e travavam o compartilhamento de tela.
+Em salas de aula e laboratórios de informática, os computadores são ferramentas pedagógicas extraordinárias, mas também representam a **maior fonte de distração para os estudantes**. Durante uma explicação ou atividade prática, redes sociais, jogos online, vídeos e abas de conversas competem constantemente pela atenção dos alunos, prejudicando o ritmo pedagógico e o aprendizado coletivo.
 
-**O InternetControl resolve todos esses problemas de forma definitiva e automática.**
+Por padrão, o **Veyon não possui nativamente um recurso para bloquear ou filtrar o acesso à internet**. Os professores dispunham apenas do bloqueio total de tela (que trava teclado e mouse, impedindo os alunos de usarem softwares locais como editores de texto, IDEs de programação ou ferramentas gráficas) ou precisavam contar com a disciplina individual de cada estudante em meio a um oceano de distrações digitais.
+
+O **InternetControl** foi desenvolvido para preencher exatamente essa lacuna:
+- **Devolver o foco pedagógico à aula:** Permite que o professor conduza momentos de explicação teórica ou exercícios práticos mantendo os computadores utilizáveis para os programas da aula, porém sem qualquer distração externa da web.
+- **Ambiente seguro para avaliações e pesquisas dirigidas:** Possibilita a realização de provas online e atividades de pesquisa focada liberando exclusivamente os portais necessários (como Moodle, formulários da instituição ou artigos de referência) e barrando automaticamente todo o restante.
+- **Simplicidade e autonomia para o docente:** Sem depender de equipes de infraestrutura, roteadores de rede complexos ou configurações manuais demoradas, o professor ganha o poder de gerenciar a conectividade de toda a sala com um único clique.
+- **Rigor técnico sem atritos:** Funciona de forma automática e transparente em todos os navegadores modernos, impedindo tentativas comuns de burlar o filtro (como abas anônimas ou navegadores secundários) e sem que os alunos percam seus trabalhos ou abas já abertas.
 
 ---
 
